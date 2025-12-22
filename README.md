@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Nurfaiz Alfian Ikhsan 👋
+![Header](./img/github-header-banner.png)
 
 # 💫 About Me:
 🎓 Informatics Engineering student | 💻 Web Developer<br><br>I enjoy building modern web applications with clean structure, reusable components, and good user experience. Most of my projects focus on React-based frontend development, role-based dashboards, and API integration.<br><br>I’ve worked on several personal and active projects, ranging from e-commerce platforms, event & ticket management systems, to digital invitation websites. I also have organizational experience, which helps me work well in teams and communicate clearly.<br><br>🚀 Currently open to Internship opportunities (Web Developer)<br>🌱 Learning more about Data Science & AI Engineering
